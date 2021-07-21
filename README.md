@@ -1,2 +1,2 @@
 # Music-Genre
-React basics
+ReactJS App
